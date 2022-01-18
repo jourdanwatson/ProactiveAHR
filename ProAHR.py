@@ -4,7 +4,6 @@ file = open("recs.txt", "r")
 
 lines=file.readlines()
 for line in lines:
-    print(line)
     rec_split=line.split(",")
     print("• " + rec_split[0])
     print("    •" + rec_split[1])
