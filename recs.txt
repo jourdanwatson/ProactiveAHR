@@ -1,0 +1,20 @@
+Emergency Contact, For vital Dynatrace communications, https://www.dynatrace.com/support/help/shortlink/configure-emergency-contacts-saas
+Host Groups, To organize the environment, https://www.dynatrace.com/support/help/shortlink/host-groups
+Host Naming, To give more descriptive host names, https://www.dynatrace.com/support/help/shortlink/hostname-config
+Process Group Detection,  To customize how processes are grouped, https://www.dynatrace.com/support/help/shortlink/process-groups
+Process Group Naming, To give more descriptive process group names, https://www.dynatrace.com/support/help/shortlink/process-group-naming
+Service Naming,  To give more descriptive service names, https://www.dynatrace.com/support/help/shortlink/custom-service-names
+Request Attributes,  To pull additional metadata for filtering, https://www.dynatrace.com/support/help/shortlink/request-attributes
+Request Naming Rules, To define request names, https://www.dynatrace.com/support/help/shortlink/request-attributes-naming-rules
+Key Requests, To allow for long term metrics for crucial requests, https://www.dynatrace.com/support/help/shortlink/key-requests
+Calculated Service Metrics, Customizing the metrics needed for a service, https://www.dynatrace.com/support/help/shortlink/calculated-service-metric
+Application Detection Rules, To define how applications are routed, https://www.dynatrace.com/support/help/shortlink/application-detection-rules
+User Tagging, To identify user sessions on applications, https://www.dynatrace.com/support/help/shortlink/user-tagging
+Key User Actions, To allow for long term metrics for vital user actions, https://www.dynatrace.com/support/help/shortlink/user-actions#key-user-actions
+Session/User Action Properties, Define additional filterable data in application sessions/actions, https://www.dynatrace.com/support/help/shortlink/user-session-properties
+Conversion Goals, Track application success, https://www.dynatrace.com/support/help/shortlink/conversion-goals
+Session Replay, Visually replay user journeys, https://www.dynatrace.com/support/help/shortlink/session-replay
+Private Synthetic Location, Test synthetics from an internal location, https://www.dynatrace.com/support/help/shortlink/private-synthetic-location
+Content Validation,  Verify Expected content loads, https://www.dynatrace.com/support/help/shortlink/id-brower-clickpath-events#validate
+Performance Thresholds, Confirm application is running optimally, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#performance-thresholds
+Outage Handling,  To set what happens on synthetic run failure, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#outage-handling
