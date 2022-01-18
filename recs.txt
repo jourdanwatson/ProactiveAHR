@@ -18,3 +18,18 @@ Private Synthetic Location, Test synthetics from an internal location, https://w
 Content Validation,  Verify Expected content loads, https://www.dynatrace.com/support/help/shortlink/id-brower-clickpath-events#validate
 Performance Thresholds, Confirm application is running optimally, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#performance-thresholds
 Outage Handling,  To set what happens on synthetic run failure, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#outage-handling
+AWS Integration,  For pulling additional AWS metrics,  https://www.dynatrace.com/support/help/shortlink/aws-monitor-hub
+VMWare Integration, For vCenter metrics, https://www.dynatrace.com/support/help/shortlink/virtualization
+Azure Integration, For Azure metrics, https://www.dynatrace.com/support/help/shortlink/azure-monitor-hub
+Cloud Foundry Integration, For additional Cloud Foundry metrics, https://www.dynatrace.com/support/help/shortlink/cloud-foundry-monitoring-hub
+Kubernetes Integration, For additional Kubernetes metrics, https://www.dynatrace.com/support/help/shortlink/full-stack-dto-k8
+Automatic Tagging Rules, To scale and organize the environment, https://www.dynatrace.com/support/help/shortlink/tagging-at-scale
+Move manual tags to automatically applied, To automate the environment organization, https://www.dynatrace.com/support/help/shortlink/tagging-best-practices
+Management Zones, To segment data in the environment, https://www.dynatrace.com/support/help/shortlink/management-zones-hub
+Alerting Profiles, To avoid overalerting of problems, https://www.dynatrace.com/support/help/shortlink/alerting-profiles
+1+ Problem notification integration types, Recommended for failure redundancy, https://www.dynatrace.com/support/help/shortlink/third-party-integrations-hub
+Custom Events for Alerting, To setup custom alerts based upon specific criteria, https://www.dynatrace.com/support/help/shortlink/metric-events-for-alerting
+API Tokens, To pull longterm metric data and for automation, https://www.dynatrace.com/support/help/shortlink/env-api
+Cluster ActiveGate, To compress cluster traffic, https://www.dynatrace.com/support/help/shortlink/public-managed-sgw
+Cluster Backup, For disaster recovery, https://www.dynatrace.com/support/help/shortlink/managed-cluster-restore
+3+ Cluster nodes, Recommended for failover to prevent data loss, https://www.dynatrace.com/support/help/shortlink/managed-add-node
