@@ -1,35 +1,35 @@
-Emergency Contact, For vital Dynatrace communications, https://www.dynatrace.com/support/help/shortlink/configure-emergency-contacts-saas
-Host Groups, To organize the environment, https://www.dynatrace.com/support/help/shortlink/host-groups
-Host Naming, To give more descriptive host names, https://www.dynatrace.com/support/help/shortlink/hostname-config
-Process Group Detection, To customize how processes are grouped, https://www.dynatrace.com/support/help/shortlink/process-groups
-Process Group Naming, To give more descriptive process group names, https://www.dynatrace.com/support/help/shortlink/process-group-naming
-Service Naming,  To give more descriptive service names, https://www.dynatrace.com/support/help/shortlink/custom-service-names
-Request Attributes,  To pull additional metadata for filtering, https://www.dynatrace.com/support/help/shortlink/request-attributes
-Request Naming Rules, To define request names, https://www.dynatrace.com/support/help/shortlink/request-attributes-naming-rules
-Key Requests, To allow for long term metrics for crucial requests, https://www.dynatrace.com/support/help/shortlink/key-requests
-Calculated Service Metrics, Customizing the metrics needed for a service, https://www.dynatrace.com/support/help/shortlink/calculated-service-metric
-Application Detection Rules, To define how applications are routed, https://www.dynatrace.com/support/help/shortlink/application-detection-rules
-User Tagging, To identify user sessions on applications, https://www.dynatrace.com/support/help/shortlink/user-tagging
-Key User Actions, To allow for long term metrics for vital user actions, https://www.dynatrace.com/support/help/shortlink/user-actions#key-user-actions
-Session/User Action Properties, Define additional filterable data in application sessions/actions, https://www.dynatrace.com/support/help/shortlink/user-session-properties
-Conversion Goals, Track application success, https://www.dynatrace.com/support/help/shortlink/conversion-goals
-Session Replay, Visually replay user journeys, https://www.dynatrace.com/support/help/shortlink/session-replay
-Private Synthetic Location, Test synthetics from an internal location, https://www.dynatrace.com/support/help/shortlink/private-synthetic-location
-Content Validation,  Verify Expected content loads, https://www.dynatrace.com/support/help/shortlink/id-brower-clickpath-events#validate
-Performance Thresholds, Confirm application is running optimally, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#performance-thresholds
-Outage Handling, To set what happens on synthetic run failure, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#outage-handling
-AWS Integration,  For pulling additional AWS metrics,  https://www.dynatrace.com/support/help/shortlink/aws-monitor-hub
-VMWare Integration, For vCenter metrics, https://www.dynatrace.com/support/help/shortlink/virtualization
-Azure Integration, For Azure metrics, https://www.dynatrace.com/support/help/shortlink/azure-monitor-hub
-Cloud Foundry Integration, For additional Cloud Foundry metrics, https://www.dynatrace.com/support/help/shortlink/cloud-foundry-monitoring-hub
-Kubernetes Integration, For additional Kubernetes metrics, https://www.dynatrace.com/support/help/shortlink/full-stack-dto-k8
-Automatic Tagging Rules, To scale and organize the environment, https://www.dynatrace.com/support/help/shortlink/tagging-at-scale
-Move manual tags to automatically applied, To automate the environment organization, https://www.dynatrace.com/support/help/shortlink/tagging-best-practices
-Management Zones, To segment data in the environment, https://www.dynatrace.com/support/help/shortlink/management-zones-hub
-Alerting Profiles, To avoid overalerting of problems, https://www.dynatrace.com/support/help/shortlink/alerting-profiles
-More Problem notification integration types, Recommended for failure redundancy, https://www.dynatrace.com/support/help/shortlink/third-party-integrations-hub
-Custom Events for Alerting, To setup custom alerts based upon specific criteria, https://www.dynatrace.com/support/help/shortlink/metric-events-for-alerting
-API Tokens, To pull longterm metric data and for automation, https://www.dynatrace.com/support/help/shortlink/env-api
-Cluster ActiveGate, To compress cluster traffic, https://www.dynatrace.com/support/help/shortlink/public-managed-sgw
-Cluster Backup, For disaster recovery, https://www.dynatrace.com/support/help/shortlink/managed-cluster-restore
-3+ Cluster nodes, Recommended for failover to prevent data loss, https://www.dynatrace.com/support/help/shortlink/managed-add-node
+emergency contact, For vital Dynatrace communications, https://www.dynatrace.com/support/help/shortlink/configure-emergency-contacts-saas
+host groups, To organize the environment, https://www.dynatrace.com/support/help/shortlink/host-groups
+host naming, To give more descriptive host names, https://www.dynatrace.com/support/help/shortlink/hostname-config
+process group detection, To customize how processes are grouped, https://www.dynatrace.com/support/help/shortlink/process-groups
+process group naming, To give more descriptive process group names, https://www.dynatrace.com/support/help/shortlink/process-group-naming
+service naming,  To give more descriptive service names, https://www.dynatrace.com/support/help/shortlink/custom-service-names
+request attributes,  To pull additional metadata for filtering, https://www.dynatrace.com/support/help/shortlink/request-attributes
+request naming rules, To define request names, https://www.dynatrace.com/support/help/shortlink/request-attributes-naming-rules
+key requests, To allow for long term metrics for crucial requests, https://www.dynatrace.com/support/help/shortlink/key-requests
+calculated service metrics, customizing the metrics needed for a service, https://www.dynatrace.com/support/help/shortlink/calculated-service-metric
+application detection rules, To define how applications are routed, https://www.dynatrace.com/support/help/shortlink/application-detection-rules
+user tagging, To identify user sessions on applications, https://www.dynatrace.com/support/help/shortlink/user-tagging
+key user actions, To allow for long term metrics for vital user actions, https://www.dynatrace.com/support/help/shortlink/user-actions#key-user-actions
+session/user action properties, Define additional filterable data in application sessions/actions, https://www.dynatrace.com/support/help/shortlink/user-session-properties
+conversion goals, Track application success, https://www.dynatrace.com/support/help/shortlink/conversion-goals
+session replay, Visually replay user journeys, https://www.dynatrace.com/support/help/shortlink/session-replay
+private synthetic Location, Test synthetics from an internal location, https://www.dynatrace.com/support/help/shortlink/private-synthetic-location
+content validation,  Verify Expected content loads, https://www.dynatrace.com/support/help/shortlink/id-brower-clickpath-events#validate
+performance thresholds, Confirm application is running optimally, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#performance-thresholds
+outage handling, To set what happens on synthetic run failure, https://www.dynatrace.com/support/help/shortlink/http-monitors-config#outage-handling
+aws integration,  For pulling additional aws metrics,  https://www.dynatrace.com/support/help/shortlink/aws-monitor-hub
+vmware integration, For vCenter metrics, https://www.dynatrace.com/support/help/shortlink/virtualization
+azure integration, For azure metrics, https://www.dynatrace.com/support/help/shortlink/azure-monitor-hub
+cloud foundry integration, For additional cloud foundry metrics, https://www.dynatrace.com/support/help/shortlink/cloud-foundry-monitoring-hub
+kubernetes integration, For additional kubernetes metrics, https://www.dynatrace.com/support/help/shortlink/full-stack-dto-k8
+automatic tagging rules, To scale and organize the environment, https://www.dynatrace.com/support/help/shortlink/tagging-at-scale
+move manual tags to automatically applied, To automate the environment organization, https://www.dynatrace.com/support/help/shortlink/tagging-best-practices
+management zones, To segment data in the environment, https://www.dynatrace.com/support/help/shortlink/management-zones-hub
+alerting profiles, To avoid overalerting of problems, https://www.dynatrace.com/support/help/shortlink/alerting-profiles
+more problem notification integration types, Recommended for failure redundancy, https://www.dynatrace.com/support/help/shortlink/third-party-integrations-hub
+custom events for alerting, To setup custom alerts based upon specific criteria, https://www.dynatrace.com/support/help/shortlink/metric-events-for-alerting
+api tokens, To pull longterm metric data and for automation, https://www.dynatrace.com/support/help/shortlink/env-api
+cluster activegate, To compress cluster traffic, https://www.dynatrace.com/support/help/shortlink/public-managed-sgw
+cluster backup, For disaster recovery, https://www.dynatrace.com/support/help/shortlink/managed-cluster-restore
+3+ cluster nodes, Recommended for failover to prevent data loss, https://www.dynatrace.com/support/help/shortlink/managed-add-node
