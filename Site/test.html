@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Read Text File</title>
+    <script src="jquery-3.5.1.min.js"></script>
+</head>
+
+<body>
+    <!-- <input type="file" name="inputfile"
+            id="inputfile">
+    <br>
+
+    <pre id="output"></pre>
+
+    <script type="text/javascript">
+        document.getElementById('inputfile')
+            .addEventListener('change', function() {
+
+            var fr=new FileReader();
+            fr.onload=function(){
+                document.getElementById('output')
+                        .textContent=fr.result;
+            }
+
+            fr.readAsText(this.files[0]);
+        })
+    </script> -->
+<script>
+jquery.get('recs.txt', function(data) {
+   do_something_with(data)
+}, 'text');
+    </script>
+</body>
+
+</html>
